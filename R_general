@@ -1,0 +1,3 @@
+# General prupose file to store tips on programming
+
+- [Add lists into data frames by wrapping list() with I(): data.frame(name = I(list))](https://www.r-bloggers.com/2016/07/populating-data-frame-cells-with-more-than-one-value/)
