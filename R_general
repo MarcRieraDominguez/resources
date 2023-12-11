@@ -1,3 +1,4 @@
 # General prupose file to store tips on programming
 
 - [Add lists into data frames by wrapping list() with I(): data.frame(name = I(list))](https://www.r-bloggers.com/2016/07/populating-data-frame-cells-with-more-than-one-value/)
+- [The Wilcoxon rank test could be replaced by fitting a regression model to z-scores of the ranks](https://statmodeling.stat.columbia.edu/2015/07/13/dont-do-the-wilcoxon/).
