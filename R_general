@@ -2,3 +2,4 @@
 
 - [Add lists into data frames by wrapping list() with I(): data.frame(name = I(list))](https://www.r-bloggers.com/2016/07/populating-data-frame-cells-with-more-than-one-value/)
 - [The Wilcoxon rank test could be replaced by fitting a regression model to z-scores of the ranks](https://statmodeling.stat.columbia.edu/2015/07/13/dont-do-the-wilcoxon/).
+- Google Scholar can be scrapped with some code [here](https://github.com/j-5chneider/sysreview/tree/master), the [Publish or perish software](https://harzing.com/resources/publish-or-perish), or even a [package](https://www.eshackathon.org/software/GSscraper.html). I came across ths over at [Twitter](https://twitter.com/artzyatfailing2/status/1742831528621613559).
