@@ -6,3 +6,4 @@
 - Some [resources](https://medium.com/@causalwizard/online-causal-diagram-and-dag-drawing-editing-tools-900bb1815c86 on how to draw causal diagrams, and some nice [references](https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-dags.html)
 - Handling of spatial data, including simplification of polygons to ease computational burden, with the Douglas-Peucker algorithm or the improved Visvalingam algorithm (https://r.geocompx.org/geometry-operations).
 - A nice [list of statistics-learning resources](https://twitter.com/ucfagls/status/1780876165193830447) over at Twitter.
+- Some [guidelines](https://www.britishecologicalsociety.org/publications/better-science/) by the British Ecological Society, covering reproducible code, data management, getting published, etc.
