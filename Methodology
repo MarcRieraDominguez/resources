@@ -5,3 +5,7 @@
 - A [list of R books: The big book of R](https://www.bigbookofr.com/).
 - An ["Everything is fucked" syllabus](https://thehardestscience.com/2016/08/11/everything-is-fucked-the-syllabus/) on the flaws of many common methods 
 - A [reflection](https://thehardestscience.com/2018/11/02/data-analysis-is-thinking-data-analysis-is-theorizing/) on how data analysis and theoretical thinking are intertwined.
+
+Causality, strutural equation models, path analysis
+
+- A [comparison](https://rpubs.com/jebyrnes/brms_bayes_sem) of implementations of SEM in lavaan, piecewiseSEM and brms.
