@@ -5,6 +5,7 @@
 - A [list of R books: The big book of R](https://www.bigbookofr.com/).
 - An ["Everything is fucked" syllabus](https://thehardestscience.com/2016/08/11/everything-is-fucked-the-syllabus/) on the flaws of many common methods 
 - A [reflection](https://thehardestscience.com/2018/11/02/data-analysis-is-thinking-data-analysis-is-theorizing/) on how data analysis and theoretical thinking are intertwined.
+- An [overview](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/) of Generalized Additive Models, including a comparison of packages `gam` and `mgcv`.
 
 Causality, strutural equation models, path analysis
 
