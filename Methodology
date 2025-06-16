@@ -7,6 +7,7 @@
 - A [reflection](https://thehardestscience.com/2018/11/02/data-analysis-is-thinking-data-analysis-is-theorizing/) on how data analysis and theoretical thinking are intertwined.
 - An [overview](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/) of Generalized Additive Models, including a comparison of packages `gam` and `mgcv`.
 - Multiple options to [extract data points from a graph](https://plotdigitizer.com/best-plot-digitizer), apparently with better options than DataThief.
+- A recurring issue in Generalized Linear Mixed Models, is convergence issues, parituclarly with many fixed effeccts and/or complex random structures. In the case of the glmmTMNB package, an option would be to [change the optimizer](https://stackoverflow.com/questions/73135114/convergence-criteria-in-glmmtmb-what-are-my-options), although maybe they are [not an increase in speed](https://github.com/glmmTMB/glmmTMB/issues/359).
 
 Causality, strutural equation models, path analysis
 
